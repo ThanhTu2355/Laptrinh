@@ -11,6 +11,7 @@ namespace Dome_1
         static void Main(string[] args)
         {
             Console.WriteLine(" Hi Linda");
+            Console.WriteLine(" Hello Peter!");
             Console.ReadLine();
         }
     }
