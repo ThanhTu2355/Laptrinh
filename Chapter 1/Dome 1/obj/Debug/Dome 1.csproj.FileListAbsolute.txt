@@ -1,0 +1,7 @@
+D:\DATA\Chapter 1\Dome 1\bin\Debug\Dome 1.exe.config
+D:\DATA\Chapter 1\Dome 1\bin\Debug\Dome 1.exe
+D:\DATA\Chapter 1\Dome 1\bin\Debug\Dome 1.pdb
+D:\DATA\Chapter 1\Dome 1\obj\Debug\Dome 1.csproj.AssemblyReference.cache
+D:\DATA\Chapter 1\Dome 1\obj\Debug\Dome 1.csproj.CoreCompileInputs.cache
+D:\DATA\Chapter 1\Dome 1\obj\Debug\Dome 1.exe
+D:\DATA\Chapter 1\Dome 1\obj\Debug\Dome 1.pdb
